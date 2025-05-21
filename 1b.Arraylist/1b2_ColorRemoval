@@ -3,7 +3,7 @@
 package Lab1;
 import java.util.ArrayList;
 
-public class ColorRemoval {
+public class 1b2_ColorRemoval {
     public static void main(String[] args) {
         // Create an ArrayList of colors
         ArrayList<String> colors = new ArrayList<>();
