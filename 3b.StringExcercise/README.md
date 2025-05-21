@@ -4,6 +4,6 @@
 
 3b3_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/3b.StringExcercise/Screenshot%202025-05-21%20221601.png
 
-3b4_output:
+3b4_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/3b.StringExcercise/Screenshot%202025-05-21%20222103.png
 
 3b5_output:
