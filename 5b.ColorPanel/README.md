@@ -1,1 +1,1 @@
-5b_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/5b_ColorPanel/Screenshot%202025-05-21%20234400.png
+5b_ColorTabbedPaneDemo_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/5b.ColorPanel/5b_ColorTabbedPaneDemo.png
