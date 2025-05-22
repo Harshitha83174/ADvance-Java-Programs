@@ -1,9 +1,9 @@
-3b1_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/3b.StringExcercise/Screenshot%202025-05-21%20220432.png
+3b1_NullOrWhitespaceChecker_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/3b.StringExcercise/3b1_NullOrWhitespaceChecker.png
 
-3b2_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/3b.StringExcercise/Screenshot%202025-05-21%20220946.png
+3b2_SubstringCounter_output:
 
-3b3_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/3b.StringExcercise/Screenshot%202025-05-21%20221601.png
+3b3_StringReverser_output:
 
-3b4_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/3b.StringExcercise/Screenshot%202025-05-21%20222103.png
+3b4_PalindromeChecker_output:
 
-3b5_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/3b.StringExcercise/Screenshot%202025-05-21%20222404.png
+3b5_WhitespaceRemover_output:
