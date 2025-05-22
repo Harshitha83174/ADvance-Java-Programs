@@ -2,7 +2,7 @@
 
 3c.7_StringTruncator_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/3c.StringExercises/3c7_StringTruncator.png
 
-3c.8_NumericChecker_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/3c.StringExercises/Screenshot%202025-05-21%20223648.png
+3c.8_NumericChecker_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/3c.StringExercises/3c8_NumericChecker.png
 
 3c.9_RandomStringGenerator_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/3c.StringExercises/3c9_RandomStringGenerator.png
 
