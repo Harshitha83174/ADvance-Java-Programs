@@ -1,4 +1,4 @@
-1c1_LinkedListIteratorFromSecond_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/LinkedList/Screenshot%202025-05-21%20204505.png
+1c1_LinkedListIteratorFromSecond_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/1c.LinkedList/1c1_LinkedListIteratorFromSecond.png
 
 1c2_LinkedListReverseIteration_output:https://github.com/Harshitha83174/ADvance-Java-Programs/blob/main/LinkedList/Screenshot%202025-05-21%20204914.png
 
